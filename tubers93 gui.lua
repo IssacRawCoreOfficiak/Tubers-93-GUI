@@ -1,6 +1,5 @@
-print 'script by tubers93BackBackBack'
-
 --[INSTANCES]
+
 
 local main = Instance.new("ScreenGui")
 local frame = Instance.new("Frame")
